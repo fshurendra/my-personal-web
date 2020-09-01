@@ -26,7 +26,7 @@
 
 .home-description {
 	margin-top: 70px;
-	margin-bottom: 235px;
+	margin-bottom: 230px;
 }
 
 .home-description p {
