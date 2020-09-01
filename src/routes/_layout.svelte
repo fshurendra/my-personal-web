@@ -1,6 +1,5 @@
 <script>
 	import Nav from '../components/Nav.svelte';
-	import Bio from '../components/Bio.svelte';
 
 	// export let segment;
 </script>
@@ -11,7 +10,6 @@
 			<div class="container">
 				<div class="small">
 					<div class="page-title">
-						<Bio />
 						<div class="name">
 							<h1>Fauzi Shurendra</h1>
 						</div>
