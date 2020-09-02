@@ -32,7 +32,7 @@
 				<div class="small">
 					<div class="social">
 						<span>
-							&copy; 2020 fshurendra.id Powered by
+							&copy; 2020 fshurendra.com Powered by
 							<a href="https://sapper.svelte.dev/" target="_blank">Sapper</a>
 						</span>
 					</div>
