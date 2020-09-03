@@ -23,7 +23,12 @@
 
 <style>
 	.home-description {
-		margin-top: 70px;
+		margin-top: 10px;
+		margin-bottom: auto;
 	}
 
+	.blog-title-big {
+		font-size: large;
+		font-weight: bold;
+	}
 </style>
