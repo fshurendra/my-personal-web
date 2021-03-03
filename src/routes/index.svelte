@@ -11,8 +11,8 @@
       <div class="full">
         <p>
           Hello There, Thanks for visiting my minimalist personal website. I'm a
-          mobile app developer who worked mostly with JavaScript language, which
-          is React Native. sometimes I Design UI/UX using Figma App. and
+          mobile apps developer who worked mostly with JavaScript language,
+          which is React Native. sometimes I Design UI/UX using Figma App. and
           Instalasi Computer & Network too.
         </p>
       </div>
